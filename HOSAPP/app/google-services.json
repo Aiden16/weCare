@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323927124689",
+    "project_id": "hospital-45085",
+    "storage_bucket": "hospital-45085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323927124689:android:15a70c32c9a6a469d4b3f0",
+        "android_client_info": {
+          "package_name": "org.techgeorge.hosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323927124689-bhrrgkejhqs048b59outplfanvb999p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techgeorge.hosapp",
+            "certificate_hash": "c2f0dfaf3177c310ce838c865c19931d8131bd7f"
+          }
+        },
+        {
+          "client_id": "323927124689-3tubiv827i7rgvd4b5lohfk4r2iqrg35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSsMMRn_lSoNU9BgjwWWQUHYPxu9-a48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323927124689-3tubiv827i7rgvd4b5lohfk4r2iqrg35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
