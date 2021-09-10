@@ -26,3 +26,11 @@ Objectives
 3)	Status of the patient such as oxygen level glucose level and other important ingredient level and other data such as whether patient has taken food and medicine  and total cost till that day available in patient account family member of the patient can view this status 
 4)	Total payment bill is also visible in the patient account 
 5)	Customer review of that particular hospital is also visible in the website
+
+**Screenshots of working app**:~>
+
+![alt text](https://github.com/Aiden16/weCare/blob/master/Screenshots/WhatsApp%20Image%202021-09-08%20at%205.11.58%20PM.jpeg)
+![alt text](https://github.com/Aiden16/weCare/blob/master/Screenshots/WhatsApp%20Image%202021-09-08%20at%205.12.06%20PM.jpeg)
+![alt text](https://github.com/Aiden16/weCare/blob/master/Screenshots/WhatsApp%20Image%202021-09-08%20at%205.12.18%20PM.jpeg)
+![alt text](https://github.com/Aiden16/weCare/blob/master/Screenshots/WhatsApp%20Image%202021-09-08%20at%205.12.41%20PM.jpeg)
+![alt text](https://github.com/Aiden16/weCare/blob/master/Screenshots/WhatsApp%20Image%202021-09-08%20at%205.12.47%20PM.jpeg)
